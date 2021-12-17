@@ -1,0 +1,8 @@
+.cover__overlay {
+  display: block;
+  position: relative;
+  text-decoration: none;
+  color: white;
+  background-image: url(../../../images/__background.png);
+  background-size: 1184px 740px;
+}
