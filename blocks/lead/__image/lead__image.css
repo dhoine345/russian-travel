@@ -1,5 +1,6 @@
 .lead__map {
-  display: grid;
+  position: relative;
+  display: flex;
   width: 984px;
   height: 615px;
 }
