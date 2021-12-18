@@ -1,0 +1,9 @@
+.place {
+  display: grid;
+  grid-template-rows: min-height:152px 460px;
+  grid-template-columns: 460px 484px;
+  gap: 40px 48px;
+  grid-template-areas:
+  "title website"
+  "image text";
+}
