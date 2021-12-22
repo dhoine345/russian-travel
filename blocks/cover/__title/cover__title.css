@@ -7,3 +7,17 @@
   max-width: 560px;
   text-align: center;
 }
+
+@media screen and (max-width: 767px) {
+  .cover__title {
+    font-size: 12vw;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    font-size: 2rem;
+    line-height: 1.09;
+  }
+}
