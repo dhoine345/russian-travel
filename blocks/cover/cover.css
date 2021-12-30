@@ -4,7 +4,7 @@
   padding-top: 92px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
   .cover {
   padding-top: 66px;
   }

@@ -1,5 +1,6 @@
 .place {
   margin: 0 auto;
+  max-width: 984px;
   display: grid;
   grid-template-rows: minmax(min-content, max-content) minmax(min-content, max-content);
   grid-template-columns: 460px minmax(min-content, max-content);
@@ -8,7 +9,7 @@
   "title website"
   "image text";
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1086px) {
   .place {
     max-width: 90.625%;
     gap: 48px 32px;

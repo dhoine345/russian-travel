@@ -48,6 +48,15 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+  .cover__overlay {
+    min-height: 200px;
+  }
+  .cover__overlay:before {
+    min-height: 200px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__overlay {
     max-width: 320px;
